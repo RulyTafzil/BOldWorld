@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType>BASE_DAMAGE</zType>
+		<!-- Default: 6 -->
+		<iValue>4</iValue>
+	</Entry>
+	<Entry>
+		<zType>ACTIVE_HEAL</zType>
+		<!-- Default: 5 -->
+		<iValue>4</iValue>
+	</Entry>
+</Root>
