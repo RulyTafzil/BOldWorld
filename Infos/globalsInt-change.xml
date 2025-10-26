@@ -27,7 +27,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITY_HP</zType>
-		<!-- Default: 200 -->
+		<!-- Default: 20 -->
 		<iValue>100</iValue>
 	</Entry>
 	<Entry>
