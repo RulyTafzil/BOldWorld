@@ -6,29 +6,14 @@
 		<iValue>30</iValue>
 	</Entry>
 	<Entry>
-		<zType>DISTANCE_MODIFIER</zType>
-		<!-- Default: -20 -->
-		<iValue>-10</iValue>
-	</Entry>
-	<Entry>
-		<zType>FAMILY_TERRITORY_MODIFIER</zType>
-		<!-- Default: 10 -->
-		<iValue>0</iValue>
-	</Entry>
-	<Entry>
 		<zType>ACTIVE_HEAL</zType>
 		<!-- Default: 5 -->
 		<iValue>25</iValue>
 	</Entry>
 	<Entry>
-		<zType>CITY_STRENGTH_BASE</zType>
-		<!-- Default: 80 -->
-		<iValue>40</iValue>
-	</Entry>
-	<Entry>
 		<zType>CITY_HP</zType>
 		<!-- Default: 200 -->
-		<iValue>100</iValue>
+		<iValue>1000</iValue>
 	</Entry>
 	<Entry>
 		<zType>COUNTER_CITY_DAMAGE</zType>
