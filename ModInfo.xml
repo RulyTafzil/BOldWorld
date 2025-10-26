@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <ModInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <displayName>SimplerCombat</displayName>
-  <description>A simple mod that makes combat simpler.</description>
-  <modpicture>SimplerCombat.JPG</modpicture>
-  <author>TheLaundry</author>
+  <displayName>BOldWorld</displayName>
+  <description>Better Combat, More Interesting Characters.</description>
+  <modpicture>BOldWorld.JPG</modpicture>
+  <author>Ruly Tafzil</author>
 <!-- 
   <modplatform>Workshop</modplatform>
   <modioID>2729565</modioID>
