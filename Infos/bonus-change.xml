@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<Root>
-	<Entry>
-		<zType>BONUS_PROJECT_REPAIRS</zType>
-		<iHPCity>0</iHPCity>
-		<iHPCityPercent>5</iHPCityPercent>
-	</Entry>
-</Root>
