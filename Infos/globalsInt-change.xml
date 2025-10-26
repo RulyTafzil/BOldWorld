@@ -12,8 +12,8 @@
 	</Entry>
 	<Entry>
 		<zType>CITY_HP</zType>
-		<!-- Default: 200 -->
-		<iValue>1000</iValue>
+		<!-- Default: 20 -->
+		<iValue>100</iValue>
 	</Entry>
 	<Entry>
 		<zType>COUNTER_CITY_DAMAGE</zType>
