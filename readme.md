@@ -8,7 +8,6 @@ This results in many unintutive outcomes, especially in regards to small percent
 
 For example, consider a Warrior (Strength 4) attacking a Spearman (Strength 5), where the Warrior gains a 5% or 10% bonus
 
-|------------|---------------------------------|
 | Base       | $\frac{4}{5} \cdot 6 = 4.8 \Rightarrow 4$ |
 | 5% Buff    | $\frac{4.2}{5} \cdot 6 = 5.04 \Rightarrow 5$ |
 | 10% Buff   | $\frac{4.4}{5} \cdot 6 = 5.28 \Rightarrow 5$ |
@@ -19,7 +18,6 @@ This mod raises HP and Damage values of everything by a favor of 5. This allows 
 
 Using the examples above of a Warrior vs a Spearmen at base, 5% and 10% bonuses, we now get damage values of:
 
-|------------|---------------------------------|
 | Base       | $\frac{4}{5} \cdot 30 = 24 \Rightarrow 24$ |
 | 5% Buff    | $\frac{4.2}{5} \cdot 30 = 25.2 \Rightarrow 25$ |
 | 10% Buff   | $\frac{4.4}{5} \cdot 30 = 26.4 \Rightarrow 26$ |
