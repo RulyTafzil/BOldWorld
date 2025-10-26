@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType>EFFECTUNIT_MELEE</zType>
+		<!-- Default: 1 -->
+		<iMeleeCounter>5</iMeleeCounter>
+		<!-- Default: -50 -->
+		<iRiverAttackModifier>-25</iRiverAttackModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_SHIP</zType>
+		<!-- Default: 1 -->
+		<iMeleeCounter>5</iMeleeCounter>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_TACTICIAN</zType>
+		<!-- Default: 100 -->
+		<iMeleeCounterPercent>50</iMeleeCounterPercent>
+	</Entry>
+</Root>
