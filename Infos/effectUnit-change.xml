@@ -17,4 +17,16 @@
 		<!-- Default: 100 -->
 		<iMeleeCounterPercent>50</iMeleeCounterPercent>
 	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_COMBAT1</zType>
+		<iStrengthModifier>10</iStrengthModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_COMBAT2</zType>
+		<iStrengthModifier>20</iStrengthModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_COMBAT3</zType>
+		<iStrengthModifier>30</iStrengthModifier>
+	</Entry>
 </Root>

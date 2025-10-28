@@ -28,7 +28,7 @@
 	<Entry>
 		<zType>CITY_HP</zType>
 		<!-- Default: 20 -->
-		<iValue>100</iValue>
+		<iValue>99</iValue>
 	</Entry>
 	<Entry>
 		<zType>COUNTER_CITY_DAMAGE</zType>
@@ -39,5 +39,14 @@
 		<zType>COUNTER_ROUT_DAMAGE</zType>
 		<!-- Default: 1 -->
 		<iValue>5</iValue>
+	</Entry>
+	<Entry>
+		<zType>GENERAL_START_MIN_AGE</zType>
+		<!-- Default: 18 -->
+		<iValue>99</iValue>
+	</Entry>
+	<Entry>
+		<zType>GENERAL_START_MAX_AGE</zType>
+		<iValue>98</iValue>
 	</Entry>
 </Root>
