@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType>YIELD_TRAINING</zType>
+		<!-- Default: 100 -->
+		<iGeneralCost>500</iGeneralCost>
+	</Entry>
+</Root>

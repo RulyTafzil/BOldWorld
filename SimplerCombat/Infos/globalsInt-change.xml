@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType>BASE_DAMAGE</zType>
+		<!-- Default: 6 -->
+		<iValue>30</iValue>
+	</Entry>
+	<Entry>
+		<zType>DISTANCE_MODIFIER</zType>
+		<!-- Default: -20 -->
+		<iValue>-10</iValue>
+	</Entry>
+	<Entry>
+		<zType>FAMILY_TERRITORY_MODIFIER</zType>
+		<!-- Default: 10 -->
+		<iValue>0</iValue>
+	</Entry>
+	<Entry>
+		<zType>ACTIVE_HEAL</zType>
+		<!-- Default: 5 -->
+		<iValue>25</iValue>
+	</Entry>
+	<Entry>
+		<zType>CITY_STRENGTH_BASE</zType>
+		<!-- Default: 80 -->
+		<iValue>40</iValue>
+	</Entry>
+	<Entry>
+		<zType>CITY_HP</zType>
+		<!-- Default: 20 -->
+		<iValue>99</iValue>
+	</Entry>
+	<Entry>
+		<zType>COUNTER_CITY_DAMAGE</zType>
+		<!-- Default: 1 -->
+		<iValue>5</iValue>
+	</Entry>
+	<Entry>
+		<zType>COUNTER_ROUT_DAMAGE</zType>
+		<!-- Default: 1 -->
+		<iValue>5</iValue>
+	</Entry>
+	<Entry>
+		<zType>GENERAL_START_MIN_AGE</zType>
+		<!-- Default: 18 -->
+		<iValue>99</iValue>
+	</Entry>
+	<Entry>
+		<zType>GENERAL_START_MAX_AGE</zType>
+		<iValue>98</iValue>
+	</Entry>
+</Root>
