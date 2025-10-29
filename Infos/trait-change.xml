@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!-- For gendered names: GenderType/TextType First/Second Pairs -->
+<Root>
+	<Entry>
+		<zType>TRAIT_HERO_ARCHETYPE</zType>
+		<iMinAge>99</iMinAge>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_COMMANDER_ARCHETYPE</zType>
+		<iMinAge>99</iMinAge>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_TACTICIAN_ARCHETYPE</zType>
+		<iMinAge>99</iMinAge>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_ZEALOT_ARCHETYPE</zType>
+		<iMinAge>99</iMinAge>
+	</Entry>
+<!--
+ 	<Entry>
+		<zType>TRAIT_SCHEMER_ARCHETYPE</zType>
+		<iMinAge>12</iMinAge>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_ORATOR_ARCHETYPE</zType>
+		<iMinAge>12</iMinAge>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_DIPLOMAT_ARCHETYPE</zType>
+		<iMinAge>12</iMinAge>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_JUDGE_ARCHETYPE</zType>
+		<iMinAge>12</iMinAge>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_BUILDER_ARCHETYPE</zType>
+		<iMinAge>12</iMinAge>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_SCHOLAR_ARCHETYPE</zType>
+		<iMinAge>12</iMinAge>
+	</Entry>
+-->
+</Root>
