@@ -29,4 +29,14 @@
 		<zType>EFFECTUNIT_COMBAT3</zType>
 		<iStrengthModifier>30</iStrengthModifier>
 	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_HERBALIST</zType>
+		<!-- Default: 4 -->
+		<iHealExtra>20</iHealExtra>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_HEALER</zType>
+		<!-- Default: 1 -->
+		<iHealAlways>5</iHealAlways>
+	</Entry>
 </Root>
