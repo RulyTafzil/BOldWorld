@@ -23,11 +23,11 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_COMBAT2</zType>
-		<iStrengthModifier>20</iStrengthModifier>
+		<iStrengthModifier>15</iStrengthModifier>
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_COMBAT3</zType>
-		<iStrengthModifier>30</iStrengthModifier>
+		<iStrengthModifier>20</iStrengthModifier>
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_HERBALIST</zType>
