@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType>DISTANCE_MODIFIER</zType>
+		<!-- Default: -20 -->
+		<iValue>-10</iValue>
+	</Entry>
+	<Entry>
+		<zType>FAMILY_TERRITORY_MODIFIER</zType>
+		<!-- Default: 10 -->
+		<iValue>0</iValue>
+	</Entry>
+	<Entry>
+		<zType>CITY_STRENGTH_BASE</zType>
+		<!-- Default: 80 -->
+		<iValue>40</iValue>
+	</Entry>
+	<Entry>
+		<zType>GENERAL_START_MIN_AGE</zType>
+		<!-- Default: 18 -->
+		<iValue>99</iValue>
+	</Entry>
+	<Entry>
+		<zType>GENERAL_START_MAX_AGE</zType>
+		<iValue>98</iValue>
+	</Entry>
+</Root>
