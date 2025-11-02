@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType>YIELD_CIVICS</zType>
+		<!-- Default: 100 -->
+		<iGovernorCost>50</iGovernorCost>
+	</Entry>
+</Root>
