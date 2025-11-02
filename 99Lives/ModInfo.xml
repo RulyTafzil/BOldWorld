@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<ModInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <displayName>99Lives</displayName>
+  <description>Scales HP and Damage by 5x to Minimize the Effect of Rounding.</description>
+  <modpicture>99Lives.JPG</modpicture>
+  <author>TheLaundry & Rukiri</author>
+<!-- 
+  <modplatform>Workshop</modplatform>
+  <modioID>2729565</modioID>
+  <modioFileID>3461506</modioFileID>
+  <workshopOwnerID>76561198030484015</workshopOwnerID>
+  <workshopFileID>2923006302</workshopFileID>
+-->
+  <modversion>1.0</modversion>
+  <modbuild>1.0</modbuild>
+  <tags>GameInfo</tags>
+  <singlePlayer>true</singlePlayer>
+  <multiplayer>true</multiplayer>
+  <scenario>false</scenario>
+  <scenarioToggle>false</scenarioToggle>
+  <blocksMods>false</blocksMods>
+  <modDependencies />
+  <modIncompatibilities />
+  <modWhitelist />
+  <gameContentRequired>NONE</gameContentRequired>
+</ModInfo>

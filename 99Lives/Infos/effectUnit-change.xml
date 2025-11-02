@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType>EFFECTUNIT_MELEE</zType>
+		<!-- Default: 1 -->
+		<iMeleeCounter>5</iMeleeCounter>
+		<!-- Default: -50 -->
+		<iRiverAttackModifier>-25</iRiverAttackModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_SHIP</zType>
+		<!-- Default: 1 -->
+		<iMeleeCounter>5</iMeleeCounter>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_TACTICIAN</zType>
+		<!-- Default: 100 -->
+		<iMeleeCounterPercent>50</iMeleeCounterPercent>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_COMBAT1</zType>
+		<iStrengthModifier>10</iStrengthModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_COMBAT2</zType>
+		<iStrengthModifier>15</iStrengthModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_COMBAT3</zType>
+		<iStrengthModifier>20</iStrengthModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_HERBALIST</zType>
+		<!-- Default: 4 -->
+		<iHealExtra>20</iHealExtra>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_HEALER</zType>
+		<!-- Default: 1 -->
+		<iHealAlways>5</iHealAlways>
+	</Entry>
+</Root>
