@@ -1,17 +1,10 @@
 <?xml version="1.0"?>
 <ModInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<<<<<<<< HEAD:99Lives/ModInfo.xml
-  <displayName>99Lives</displayName>
-  <description>Scales HP and Damage by 5x to Minimize the Effect of Rounding.</description>
-  <modpicture>99Lives.JPG</modpicture>
-  <author>TheLaundry & Rukiri</author>
-========
   <displayName>NoRoleRestrictions</displayName>
   <description>Allow all character archetypes to serve as Generals and Governors.</description>
   <modpicture>NoRoleRestrictions.JPG</modpicture>
   <author>Rukiri</author>
->>>>>>>> Archetypes:NoRoleRestrictions/ModInfo.xml
-<!-- 
+<!--
   <modplatform>Workshop</modplatform>
   <modioID>2729565</modioID>
   <modioFileID>3461506</modioFileID>
