@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <ModInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <displayName>SimplerCombat</displayName>
-  <description>A simple mod that makes combat simpler.</description>
-  <modpicture>SimplerCombat.JPG</modpicture>
+  <displayName>EasyHEXchange</displayName>
+  <description>Reduce peanlty for exchanging hexes between families.</description>
+  <modpicture>EasyHEXchange.JPG</modpicture>
   <author>TheLaundry</author>
 <!-- 
   <modplatform>Workshop</modplatform>
