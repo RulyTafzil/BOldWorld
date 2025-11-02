@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <ModInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <displayName>NoRoleRestrictions</displayName>
-  <description>Allow all character archetypes to serve as Generals and Governors.</description>
-  <modpicture>NoRoleRestrictions.JPG</modpicture>
-  <author>Rukiri</author>
+  <displayName>NoMoreGenerals</displayName>
+  <description>Removes General role from all archetypes.</description>
+  <modpicture>NoMoreGenerals.JPG</modpicture>
+  <author>TheLaundry and Rukiri</author>
 <!-- 
   <modplatform>Workshop</modplatform>
   <modioID>2729565</modioID>

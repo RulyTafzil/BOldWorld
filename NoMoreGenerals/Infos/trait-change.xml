@@ -1,48 +1,47 @@
 <?xml version="1.0"?>
 <!-- For gendered names: GenderType/TextType First/Second Pairs -->
 
-<!-- Allow all Archetypes to serve as Generals and Governnors. No change to agents prerequs -->
+<!-- Attempts to disallow all archetypes to serve as generals -->
 
 <Root>
 	<Entry>
 		<zType>TRAIT_HERO_ARCHETYPE</zType>
-		<bGovernorPrereq>1</bGovernorPrereq>
+		<bGeneralPrereq>0</bGeneralPrereq>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_COMMANDER_ARCHETYPE</zType>	
-		<bGovernorPrereq>1</bGovernorPrereq>
+		<bGeneralPrereq>0</bGeneralPrereq>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_TACTICIAN_ARCHETYPE</zType>
-		<bGovernorPrereq>1</bGovernorPrereq>
+		<bGeneralPrereq>0</bGeneralPrereq>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_ZEALOT_ARCHETYPE</zType>
-		<bGovernorPrereq>1</bGovernorPrereq>
+		<bGeneralPrereq>0</bGeneralPrereq>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_SCHEMER_ARCHETYPE</zType>
-		<bGovernorPrereq>1</bGovernorPrereq>
-		<bGeneralPrereq>1</bGeneralPrereq>
+		<bGeneralPrereq>0</bGeneralPrereq>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_ORATOR_ARCHETYPE</zType>
-		<bGeneralPrereq>1</bGeneralPrereq>
+		<bGeneralPrereq>0</bGeneralPrereq>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_DIPLOMAT_ARCHETYPE</zType>
-		<bGeneralPrereq>1</bGeneralPrereq>
+		<bGeneralPrereq>0</bGeneralPrereq>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_JUDGE_ARCHETYPE</zType>
-		<bGeneralPrereq>1</bGeneralPrereq>
+		<bGeneralPrereq>0</bGeneralPrereq>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_BUILDER_ARCHETYPE</zType>
-		<bGeneralPrereq>1</bGeneralPrereq>
+		<bGeneralPrereq>0</bGeneralPrereq>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_SCHOLAR_ARCHETYPE</zType>
-		<bGeneralPrereq>1</bGeneralPrereq>
+		<bGeneralPrereq>0</bGeneralPrereq>
 	</Entry>
 </Root>
