@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <ModInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <displayName>SimplerCombat</displayName>
-  <description>A simple mod that makes combat simpler.</description>
-  <modpicture>SimplerCombat.JPG</modpicture>
-  <author>TheLaundry</author>
+  <displayName>NoRoleRestrictions</displayName>
+  <description>Allow all character archetypes to serve as Generals and Governors.</description>
+  <modpicture>NoRoleRestrictions.JPG</modpicture>
+  <author>Rukiri</author>
 <!-- 
   <modplatform>Workshop</modplatform>
   <modioID>2729565</modioID>
@@ -12,7 +12,7 @@
   <workshopFileID>2923006302</workshopFileID>
 -->
   <modversion>1.0</modversion>
-  <modbuild>1.0.66959</modbuild>
+  <modbuild>1.0</modbuild>
   <tags>GameInfo</tags>
   <singlePlayer>true</singlePlayer>
   <multiplayer>true</multiplayer>
