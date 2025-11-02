@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType>MEMORYLEVEL_NEG_GAVE_AWAY_TILE</zType>
+		<!-- Default: -40 -->
+		<!-- Default: 40 -->
+		<iValue>-10</iValue>
+		<iTurns>10</iTurns>
+	</Entry>
+	<Entry>
+		<zType>MEMORYLEVEL_POS_GIVEN_TILE</zType>
+		<!-- Default: 20 -->
+		<!-- Default: 20 -->
+		<iValue>5</iValue>
+		<iTurns>5</iTurns>
+	</Entry>
+</Root>
