@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType>GENERAL_START_MIN_AGE</zType>
+		<!-- Default: 18 -->
+		<iValue>99</iValue>
+	</Entry>
+	<Entry>
+		<zType>GENERAL_START_MAX_AGE</zType>
+		<iValue>98</iValue>
+	</Entry>
+</Root>
